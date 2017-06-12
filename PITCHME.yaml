@@ -1,2 +1,1 @@
-background : images/background.png
-background-size : contain
+theme-override : assets/css/PITCHME.css
