@@ -31,11 +31,18 @@ Dévelopment Mobile multi-plateformes avec Xamarin
 #HSLIDE 
 ### Et après ? 
 #### Pour la prochaine session : A vous de voter 
-Rendez-vous sur notre meetup dès ce soir pour choisir les sujets qui vous interessent le plus...
+Rendez-vous sur notre meetup dès ce soir pour choisir les sujets qui vous interessent le plus...<br />
+http://bit.ly/MugInClermont-M2-Sujets
 
 #HSLIDE
-http://bit.ly/MugInClermont-M2-Sujets
+![Logo](assets/images/QrCode_Prochains_Sujets.jpg)
+
+#HSLIDE
+### Vos retours sur cette session
 http://bit.ly/MugInClermont-M1-Soirée
+
+#HSLIDE
+![Logo](assets/images/QrCode_Soiree.jpg)
 
 #HSLIDE
 ##Plus d'infos
