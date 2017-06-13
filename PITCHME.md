@@ -17,24 +17,25 @@ Kevin, Sylvain, Pierre, Damien, Jérôme
 
 #HSLIDE
 ## Fréquence ?
-Tous les 2 mois si les sujets le permettent
+Tous les 2 mois
 
 #HSLIDE 
-### Qu'avons-nous au menu ?
+### Ce soir
 Retours sur les annonces de la #Build 2017 <br />
 (10-12 Mai 2017)
 
 #HSLIDE 
-### Qu'avons-nous au menu ?
+### Ce soir
 Dévelopment Mobile multi-plateformes avec Xamarin 
 
 #HSLIDE 
 ### Et après ? 
-     Azure ?
-     NodeJS ?
-     .NETCore ?
-#### A vous de votez : 
+#### Pour la prochaine session : A vous de voter 
 Rendez-vous sur notre meetup dès ce soir pour choisir les sujets qui vous interessent le plus...
+
+#HSLIDE
+http://bit.ly/MugInClermont-M2-Sujets
+http://bit.ly/MugInClermont-M1-Soirée
 
 #HSLIDE
 ##Plus d'infos
