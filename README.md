@@ -1,3 +1,3 @@
 # Mug In Clermont - M1-2017
 
-## Présentation : [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/mug-in-clermont-public/M1-2017/master?grs=gitlab&t=sky)
+[![Alt text for your video](https://img.youtube.com/vi/QF711FgYbLU/0.jpg)](http://www.youtube.com/watch?v=QF711FgYbLU)
